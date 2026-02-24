@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محرر صور المنتجات</string>
+    <string name="take_photo">التقاط صورة</string>
+    <string name="choose_gallery">اختيار من المعرض</string>
+    <string name="welcome_title">محرر صور المنتجات</string>
+    <string name="welcome_subtitle">حوّل صور منتجاتك إلى صور احترافية بلمسة واحدة</string>
+    <string name="processing">جاري المعالجة...</string>
+    <string name="remove_bg">إزالة الخلفية</string>
+    <string name="straighten">تعديل الميلان</string>
+    <string name="add_shadow">إضافة ظل</string>
+    <string name="add_lighting">إضافة إضاءة</string>
+    <string name="auto_enhance">تحسين تلقائي</string>
+    <string name="save_image">حفظ الصورة</string>
+    <string name="share_image">مشاركة</string>
+    <string name="before">قبل</string>
+    <string name="after">بعد</string>
+    <string name="original">الأصلية</string>
+    <string name="edited">المعدّلة</string>
+    <string name="camera_permission_required">يحتاج التطبيق إذن الكاميرا</string>
+    <string name="storage_permission_required">يحتاج التطبيق إذن التخزين</string>
+    <string name="image_saved">تم حفظ الصورة بنجاح</string>
+    <string name="error_processing">حدث خطأ أثناء المعالجة</string>
+    <string name="error_saving">حدث خطأ أثناء الحفظ</string>
+    <string name="shadow_intensity">شدة الظل</string>
+    <string name="light_intensity">شدة الإضاءة</string>
+    <string name="rotation_angle">زاوية الدوران</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="apply_all">تطبيق الكل</string>
+</resources>
