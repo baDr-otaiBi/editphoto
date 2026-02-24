@@ -5,11 +5,11 @@
     <string name="choose_gallery">اختيار من المعرض</string>
     <string name="welcome_title">محرر صور المنتجات</string>
     <string name="welcome_subtitle">حوّل صور منتجاتك إلى صور احترافية بلمسة واحدة</string>
-    <string name="processing">جاري المعالجة...</string>
+    <string name="processing">جاري المعالجة…</string>
     <string name="remove_bg">إزالة الخلفية</string>
     <string name="straighten">تعديل الميلان</string>
     <string name="add_shadow">إضافة ظل</string>
-    <string name="add_lighting">إضافة إضاءة</string>
+    <string name="add_lighting">إضاءة</string>
     <string name="auto_enhance">تحسين تلقائي</string>
     <string name="save_image">حفظ الصورة</string>
     <string name="share_image">مشاركة</string>
@@ -27,4 +27,69 @@
     <string name="rotation_angle">زاوية الدوران</string>
     <string name="reset">إعادة ضبط</string>
     <string name="apply_all">تطبيق الكل</string>
+
+    <!-- New features -->
+    <string name="reflection">انعكاس</string>
+    <string name="reflection_intensity">شدة الانعكاس</string>
+    <string name="filters">فلاتر</string>
+    <string name="backgrounds">خلفيات</string>
+    <string name="resize">تغيير الحجم</string>
+    <string name="watermark">علامة مائية</string>
+    <string name="text_overlay">نص</string>
+    <string name="price_tag">بطاقة سعر</string>
+    <string name="batch_process">معالجة دفعة</string>
+    <string name="undo">تراجع</string>
+    <string name="redo">إعادة</string>
+
+    <!-- Background Templates -->
+    <string name="choose_background">اختر خلفية</string>
+    <string name="pure_white">أبيض نقي</string>
+    <string name="soft_gray">رمادي ناعم</string>
+    <string name="gradient_light">تدرج فاتح</string>
+    <string name="gradient_blue">تدرج أزرق</string>
+    <string name="gradient_warm">تدرج دافئ</string>
+    <string name="studio_dark">استوديو داكن</string>
+    <string name="studio_spotlight">سبوت لايت</string>
+
+    <!-- Filters -->
+    <string name="choose_filter">اختر فلتر</string>
+    <string name="filter_warm">دافئ</string>
+    <string name="filter_cool">بارد</string>
+    <string name="filter_vivid">حيوي</string>
+    <string name="filter_bw">أبيض وأسود</string>
+    <string name="filter_dramatic">درامي</string>
+    <string name="filter_product_pop">إبراز المنتج</string>
+
+    <!-- Platform Resize -->
+    <string name="choose_platform">اختر المنصة</string>
+    <string name="resize_success">تم تغيير الحجم بنجاح</string>
+
+    <!-- Watermark -->
+    <string name="enter_watermark">أدخل نص العلامة المائية</string>
+    <string name="watermark_hint">اسم المتجر أو العلامة التجارية</string>
+
+    <!-- Text Overlay -->
+    <string name="enter_text">أدخل النص</string>
+    <string name="text_hint">مثال: خصم 50%</string>
+    <string name="choose_style">اختر الأسلوب</string>
+
+    <!-- Price Tag -->
+    <string name="enter_price">أدخل السعر</string>
+    <string name="price_hint">99.99</string>
+    <string name="enter_old_price">السعر القديم (اختياري)</string>
+    <string name="currency">العملة</string>
+    <string name="sar">ر.س</string>
+    <string name="usd">$</string>
+    <string name="aed">د.إ</string>
+
+    <!-- Batch Processing -->
+    <string name="batch_title">معالجة دفعة صور</string>
+    <string name="batch_select">اختر الصور</string>
+    <string name="batch_processing">جاري معالجة %1$d من %2$d</string>
+    <string name="batch_complete">تمت معالجة %1$d صورة بنجاح</string>
+    <string name="batch_save_all">حفظ الكل</string>
+    <string name="batch_saved">تم حفظ %1$d صورة</string>
+
+    <!-- Main screen -->
+    <string name="batch_button">معالجة دفعة صور</string>
 </resources>

@@ -95,6 +95,10 @@ class MainActivity : AppCompatActivity() {
                 storagePermissionLauncher.launch(PermissionHelper.getStoragePermissions())
             }
         }
+
+        binding.btnBatch.setOnClickListener {
+            startActivity(Intent(this, BatchActivity::class.java))
+        }
     }
 
     private fun launchCamera() {

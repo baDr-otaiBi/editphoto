@@ -37,6 +37,10 @@
             android:name=".ui.EditorActivity"
             android:theme="@style/Theme.ProductEditor" />
 
+        <activity
+            android:name=".ui.BatchActivity"
+            android:theme="@style/Theme.ProductEditor" />
+
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.fileprovider"
